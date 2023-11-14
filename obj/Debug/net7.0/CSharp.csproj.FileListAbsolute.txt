@@ -28,7 +28,6 @@
 /home/darlan/Documents/Projects/CSharp/bin/Debug/net7.0/CSharp.pdb
 /home/darlan/Documents/Projects/CSharp/obj/Debug/net7.0/CSharp.genruntimeconfig.cache
 /home/darlan/Documents/Projects/CSharp/obj/Debug/net7.0/ref/CSharp.dll
-/home/darlan/Projects/CSharp/obj/Debug/net7.0/CSharp.csproj.AssemblyReference.cache
 /home/darlan/Projects/CSharp/obj/Debug/net7.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
 /home/darlan/Projects/CSharp/obj/Debug/net7.0/CSharp.AssemblyInfoInputs.cache
 /home/darlan/Projects/CSharp/obj/Debug/net7.0/CSharp.AssemblyInfo.cs

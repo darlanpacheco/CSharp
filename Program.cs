@@ -2,18 +2,6 @@
 {
     enum Frutas { abacaxi = 10, banana, tomate, caju, laranja };
 
-    // static void Main()
-    // {
-    //     enumFunction();
-    //     listsFunction();
-    //     ternary();
-    //     bitwise();
-    //     bArrays();
-    //     refPass();
-    //     outArg();
-    //     paramsFunction(5, 3, 15, 8, 58);
-    // }
-
     static void outArg()
     {
         int result;
@@ -124,4 +112,18 @@
     {
         Console.WriteLine(numbers[1]);
     }
+
+    /*
+    static void Main()
+    {
+        enumFunction();
+        listsFunction();
+        ternary();
+        bitwise();
+        bArrays();
+        refPass();
+        outArg();
+        paramsFunction(5, 3, 15, 8, 58);
+    }
+    */
 }

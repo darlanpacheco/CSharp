@@ -23,6 +23,7 @@ class Child2 : Child
 
 class Program3
 {
+    /*
     static void Main()
     {
         Base b = new Base();
@@ -33,4 +34,5 @@ class Program3
         b = c2;
         b.virtualFunc();
     }
+    */
 }
